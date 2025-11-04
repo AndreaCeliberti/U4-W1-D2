@@ -12,3 +12,4 @@ Console.WriteLine(persona1.getLastname());
 
 Console.WriteLine(persona1.getAge());
 
+Console.WriteLine(persona1.getDetails());

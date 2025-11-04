@@ -23,7 +23,6 @@ namespace U4_W1_D2
         public string getName() { return Name; }
         public string getLastname() { return Lastname; }
         public int getAge() { return Age; }
-
-       /*public void getDetail() { return Name, return Lastname, return Age}*/
+        public string getDetails() { return $"Name: {Name}, Lastname: {Lastname}, Age: {Age}"; }
     }
 }
